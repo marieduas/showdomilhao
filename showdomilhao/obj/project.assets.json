@@ -32923,11 +32923,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Aluno\\showdomilhao-1\\showdomilhao\\showdomilhao.csproj",
+      "projectUniqueName": "C:\\Users\\Aluno\\showdomilhao\\showdomilhao\\showdomilhao.csproj",
       "projectName": "showdomilhao",
-      "projectPath": "C:\\Users\\Aluno\\showdomilhao-1\\showdomilhao\\showdomilhao.csproj",
+      "projectPath": "C:\\Users\\Aluno\\showdomilhao\\showdomilhao\\showdomilhao.csproj",
       "packagesPath": "C:\\Users\\Aluno\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Aluno\\showdomilhao-1\\showdomilhao\\obj\\",
+      "outputPath": "C:\\Users\\Aluno\\showdomilhao\\showdomilhao\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "configFilePaths": [
